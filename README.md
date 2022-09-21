@@ -6,10 +6,10 @@ I'm a Team Lead & Design Engineer with a passion for building amazing user exper
 
 ```
 History:
-VEED.IO - Senior Software Engineer / Team Lead
+*VEED.IO - Senior Software Engineer / Team Lead*
   Sep 2020 - Present
-Instana - Software Engineer
+*Instana - Software Engineer*
   Jan 2019 - Sep 2020
-ESL FACEIT Group - Frontend Engneer
+*ESL FACEIT Group - Frontend Engneer*
   Jan 2016 - Dec 2018
 ```
