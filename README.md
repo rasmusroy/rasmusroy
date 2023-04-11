@@ -2,7 +2,7 @@
 
 `Software Engineer - Product Focused - Ethics Minded`
 
-I'm a Team Lead & Software Engineer with a passion for building amazing user experiences! ✨ I love working the intersection of design and development to embrace the best of both worlds.
+I'm a Software Engineer with a passion for building amazing user experiences! ✨ I love working the intersection of design and development to embrace the best of both worlds.
 
 ### Work
 🎥 **VEED.IO | Senior Software Engineer / Team Lead**.  Sep 2020 - Present
