@@ -5,7 +5,9 @@
 I'm a Software Engineer with a passion for building amazing user experiences! ✨ I love working the intersection of design and development to embrace the best of both worlds.
 
 ### Work
-🎥 **VEED.IO | Senior Software Engineer / Team Lead**.  Sep 2020 - Present
+🔎 **quantilope | Senior Frontend Developer**. Jul 2023 - Present
+
+🎥 **VEED.IO | Senior Software Engineer / Team Lead**.  Sep 2020 - Jun 2023
 
 📉 **Instana | Software Engineer**.  Jan 2019 - Sep 2020
 
