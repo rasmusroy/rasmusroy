@@ -1,8 +1,8 @@
 # Rasmus Roy 🧑‍💻
 
-`Software Engineer - Product Focused - Ethics Minded`
+`Coder - Creativity Focused - Ethics Minded`
 
-I'm a Software Engineer with a passion for building amazing user experiences! ✨ I love working the intersection of design and development to embrace the best of both worlds.
+I'm passionate about simplicity, ethics, sustainability and how it relates to technology and the world we live in.
 
 ### Work
 🔎 **quantilope | Senior Frontend Developer**. Jul 2023 - Present
